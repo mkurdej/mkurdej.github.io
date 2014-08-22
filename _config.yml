@@ -8,7 +8,7 @@ description: Computer science blog of Marek Kurdej
 author: Marek Kurdej
 
 # Your email if you want it to be linked on the contact page
-author_email: <firstname> <dot> <lastname> <at> gmail <dot> com
+author_email: firstname.lastname@gmail.com
 
 # The directory for category index pages. Change it to something else if
 # for example you want links like /categories/category1 instead of /category1
