@@ -1,7 +1,0 @@
----
-layout: post
-title: Test post no. 1
-category: Testing
----
-
-Here is my post.
