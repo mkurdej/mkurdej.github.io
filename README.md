@@ -1,4 +1,4 @@
-mkurdej.github.io
-=================
+Programming blog of Marek Kurdej.
+Expect C++.
 
-For testing purposes
+Please find the site at [mkurdej.github.io](mkurdej.github.io).
