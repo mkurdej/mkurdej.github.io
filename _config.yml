@@ -6,7 +6,7 @@ baseurl: ""
 url: https://mkurdej.github.io
 enforse_ssl: mkurdej.github.io
 title_description: "Blog of Marek Kurdej."
-title_image:
+title_image: "https://secure.gravatar.com/avatar/8cac760da31f8b2e6edcdcaac27fd41c"
 post_limit: 5
 
 # Social usernames/URLs
